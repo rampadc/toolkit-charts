@@ -3,6 +3,17 @@ entries:
   refarch-machinesets:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2022-09-21T00:16:04.61274903Z"
+    description: A Helm chart for deploying infrastrucure reference architecture to
+      OpenShift 4.x clusters
+    digest: e17c31d63b64d091dc6f3bb84b84a0e80029a07c873e3495624942921dc13df0
+    name: refarch-machinesets
+    type: application
+    urls:
+    - https://github.com/rampadc/toolkit-charts/releases/download/refarch-machinesets-0.4.8/refarch-machinesets-0.4.8.tgz
+    version: 0.4.8
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2022-09-20T22:30:13.518805534Z"
     description: A Helm chart for deploying infrastrucure reference architecture to
       OpenShift 4.x clusters
