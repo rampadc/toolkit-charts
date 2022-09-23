@@ -34,4 +34,15 @@ entries:
     urls:
     - https://github.com/rampadc/toolkit-charts/releases/download/refarch-machinesets-0.4.7/refarch-machinesets-0.4.7.tgz
     version: 0.4.7
+  service-account:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-23T01:25:10.884762514Z"
+    description: A Helm chart for Kubernetes
+    digest: 52338d279a36c24b8d8838746a75987e0e0f8172d2b149a485d792c9efd9cfb6
+    name: service-account
+    type: application
+    urls:
+    - https://github.com/rampadc/toolkit-charts/releases/download/service-account-1.0.1/service-account-1.0.1.tgz
+    version: 1.0.1
 generated: "2022-09-20T22:30:13.045662033Z"
